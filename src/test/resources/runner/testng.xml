@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Page Object Model with Page Factories">
+
+	<listeners>
+
+		<listener class-name="com.osm.listeners.CustomListeners" />
+
+		<listener class-name="com.osm.errorcollectors.TestListenerAdapter" />
+		 
+
+	</listeners>
+
+	<test  name="LoginTest">
+		<classes>
+			<class name="com.osm.testcases.VerifyOrangeHrmLoginFunction" />
+		</classes>
+
+	</test> <!-- Test -->
+
+	<test name="AdduserTest">
+		<classes>
+			<class name="com.osm.testcases.ValidateAddUser" />
+		</classes>
+
+	</test> <!-- Test -->
+	<test  name="PIMModuleTest">
+		<classes>
+			<class name="com.osm.testcases.ValidatePIMmodule" />
+		</classes>
+
+	</test> <!-- Test -->
+	<test  name="TabcountTest">
+		<classes>
+			<class name="com.osm.testcases.VerifyTabcountofOrangeHrm" />
+		</classes>
+
+	</test> <!-- Test -->
+	 
+	<test  name="JobTitlesTest">
+		<classes>
+			<class name="com.osm.testcases.ValidateAddJobTitles" />
+		</classes>
+
+	</test> <!-- Test -->
+	<test  name="AddEmployeeTest">
+		<classes>
+			<class name="com.osm.testcases.ValidateAddEmployee" />
+		</classes>
+
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
