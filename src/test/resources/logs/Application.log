@@ -1,5 +1,34 @@
-13/07/2022 18:12:29 devpinoyLogger Launching Chrome
-13/07/2022 18:12:36 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (5adbcc6c5f0ecb010dc8f15c2a26d20c)] -> xpath: //*[@id="txtUsername"]] entered value as : Admin
-13/07/2022 18:12:36 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (5adbcc6c5f0ecb010dc8f15c2a26d20c)] -> xpath: //*[@id="txtPassword"]] entered value as : admin123
-13/07/2022 18:12:52 devpinoyLogger Clicking on an element : Proxy element for: AjaxElementLocator 'By.xpath: //*[@id="btnLogin"]'
-13/07/2022 18:13:02 devpinoyLogger successfully login
+24/07/2022 15:38:58 devpinoyLogger Launching Chrome
+24/07/2022 15:39:05 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (ca4c2302edb2f83b16e27029f58dbf3b)] -> xpath: //*[@id="txtUsername"]] entered value as : Admin
+24/07/2022 15:39:05 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (ca4c2302edb2f83b16e27029f58dbf3b)] -> xpath: //*[@id="txtPassword"]] entered value as : admin123
+24/07/2022 15:39:20 devpinoyLogger Clicking on an element : Proxy element for: AjaxElementLocator 'By.xpath: //*[@id="btnLogin"]'
+24/07/2022 15:39:30 devpinoyLogger successfully login
+24/07/2022 15:39:31 devpinoyLogger Browser successfully quit
+24/07/2022 15:39:34 devpinoyLogger Launching Chrome
+24/07/2022 15:39:41 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (4e70b61602e85a173c4d7f82aea0f9e9)] -> xpath: //*[@id="txtUsername"]] entered value as : Admin
+24/07/2022 15:39:41 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (4e70b61602e85a173c4d7f82aea0f9e9)] -> xpath: //*[@id="txtPassword"]] entered value as : admin123
+24/07/2022 15:39:55 devpinoyLogger Clicking on an element : Proxy element for: AjaxElementLocator 'By.xpath: //*[@id="btnLogin"]'
+24/07/2022 15:40:06 devpinoyLogger successfully login
+24/07/2022 15:40:10 devpinoyLogger Clicking on an element : [[ChromeDriver: chrome on WINDOWS (4e70b61602e85a173c4d7f82aea0f9e9)] -> xpath: //*[@id="menu_admin_UserManagement"]]
+24/07/2022 15:40:11 devpinoyLogger Clicking on an element : [[ChromeDriver: chrome on WINDOWS (4e70b61602e85a173c4d7f82aea0f9e9)] -> xpath: //*[@id="menu_admin_viewSystemUsers"]]
+24/07/2022 15:40:14 devpinoyLogger Browser successfully quit
+24/07/2022 15:40:16 devpinoyLogger Launching Chrome
+24/07/2022 15:40:20 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (add31daf38e02b005950c3fcb13d1b1c)] -> xpath: //*[@id="txtUsername"]] entered value as : Admin
+24/07/2022 15:40:21 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (add31daf38e02b005950c3fcb13d1b1c)] -> xpath: //*[@id="txtPassword"]] entered value as : admin123
+24/07/2022 15:40:36 devpinoyLogger Clicking on an element : Proxy element for: AjaxElementLocator 'By.xpath: //*[@id="btnLogin"]'
+24/07/2022 15:40:51 devpinoyLogger Browser successfully quit
+24/07/2022 15:40:54 devpinoyLogger Launching Chrome
+24/07/2022 15:40:59 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0288d09c650981a065acd8140f88061b)] -> xpath: //*[@id="txtUsername"]] entered value as : Admin
+24/07/2022 15:40:59 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (0288d09c650981a065acd8140f88061b)] -> xpath: //*[@id="txtPassword"]] entered value as : admin123
+24/07/2022 15:41:15 devpinoyLogger Clicking on an element : Proxy element for: AjaxElementLocator 'By.xpath: //*[@id="btnLogin"]'
+24/07/2022 15:41:26 devpinoyLogger Browser successfully quit
+24/07/2022 15:41:29 devpinoyLogger Launching Chrome
+24/07/2022 15:41:34 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (8f96f4f044bb1a1805f593b75300a273)] -> xpath: //*[@id="txtUsername"]] entered value as : Admin
+24/07/2022 15:41:34 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (8f96f4f044bb1a1805f593b75300a273)] -> xpath: //*[@id="txtPassword"]] entered value as : admin123
+24/07/2022 15:41:50 devpinoyLogger Clicking on an element : Proxy element for: AjaxElementLocator 'By.xpath: //*[@id="btnLogin"]'
+24/07/2022 15:42:13 devpinoyLogger Susessfully uploaded file
+24/07/2022 15:42:18 devpinoyLogger Launching Chrome
+24/07/2022 15:42:24 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (7579b94db1d4a6c2ee22f2bba876dff2)] -> xpath: //*[@id="txtUsername"]] entered value as : Admin
+24/07/2022 15:42:24 devpinoyLogger Typing in an Element : [[ChromeDriver: chrome on WINDOWS (7579b94db1d4a6c2ee22f2bba876dff2)] -> xpath: //*[@id="txtPassword"]] entered value as : admin123
+24/07/2022 15:42:40 devpinoyLogger Clicking on an element : Proxy element for: AjaxElementLocator 'By.xpath: //*[@id="btnLogin"]'
+24/07/2022 15:42:50 devpinoyLogger successfully login

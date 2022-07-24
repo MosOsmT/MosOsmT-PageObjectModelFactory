@@ -11,41 +11,16 @@
 
 	</listeners>
 
-	<test  name="LoginTest">
-		<classes>
-			<class name="com.osm.testcases.VerifyOrangeHrmLoginFunction" />
-		</classes>
-
-	</test> <!-- Test -->
-
-	<test name="AdduserTest">
-		<classes>
-			<class name="com.osm.testcases.ValidateAddUser" />
-		</classes>
-
-	</test> <!-- Test -->
-	<test  name="PIMModuleTest">
-		<classes>
-			<class name="com.osm.testcases.ValidatePIMmodule" />
-		</classes>
-
-	</test> <!-- Test -->
-	<test  name="TabcountTest">
-		<classes>
-			<class name="com.osm.testcases.VerifyTabcountofOrangeHrm" />
-		</classes>
-
-	</test> <!-- Test -->
-	 
-	<test  name="JobTitlesTest">
-		<classes>
-			<class name="com.osm.testcases.ValidateAddJobTitles" />
-		</classes>
-
-	</test> <!-- Test -->
+	
 	<test  name="AddEmployeeTest">
 		<classes>
 			<class name="com.osm.testcases.ValidateAddEmployee" />
+		</classes>
+
+	</test> <!-- Test -->
+	<test  name="AddSkillTest">
+		<classes>
+			<class name="com.osm.testcases.ValidateAddSkillPage" />
 		</classes>
 
 	</test> <!-- Test -->

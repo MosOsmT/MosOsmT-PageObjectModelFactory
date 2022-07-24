@@ -12,8 +12,12 @@ F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\pages\locators\A
 F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\pages\locators\HomepageLocators.java
 F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\pages\locators\AddUserPageLocator.java
 F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\base\Page.java
+F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\pages\locators\QualiFicationPageLocators.java
+F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\utilities\ExcelReader.java
 F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\pages\locators\LoginPageLocators.java
 F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\listeners\CustomListeners.java
 F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\pages\actions\HomePage.java
 F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\utilities\ExtentManager.java
 F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\base\Constants.java
+F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\utilities\DataUtil.java
+F:\Java_Workspace\PageobjectWithFactories\src\main\java\com\osm\pages\actions\AddSkillPage.java

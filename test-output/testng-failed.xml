@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.osm.testcases.ValidateAddEmployee">
+      <class name="com.osm.testcases.ValidateAddSkillPage">
         <methods>
-          <include name="validateAddEmployeeTest"/>
+          <include name="validateAddSkill" invocation-numbers="0 1 2"/>
         </methods>
-      </class> <!-- com.osm.testcases.ValidateAddEmployee -->
+      </class> <!-- com.osm.testcases.ValidateAddSkillPage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

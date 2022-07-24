@@ -1,7 +1,9 @@
 package com.osm.base;
 
+import java.io.FileInputStream;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Properties;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -18,6 +20,7 @@ import com.aventstack.extentreports.ExtentTest;
 
 
 import com.osm.pages.actions.TopNavigation;
+import com.osm.utilities.ExcelReader;
  
 
 
@@ -39,8 +42,10 @@ public class Page {
 	
 	public static WebDriver driver;
 	public static Logger log = Logger.getLogger("devpinoyLogger");
-	/*public static ExcelReader excel = new ExcelReader(
-			System.getProperty("user.dir") + "\\src\\test\\resources\\excel\\testdata.xlsx");*/
+	public static Properties config=new Properties();
+	private FileInputStream fis;
+	public static ExcelReader excel = new ExcelReader(
+			System.getProperty("user.dir") + "\\src\\test\\resources\\excel\\testdata.xlsx");
 	
 	public static WebDriverWait wait;
 	public static ExtentTest test;
@@ -103,10 +108,10 @@ public void select(WebElement locator, String value) {
 		 test.info("Mouse over on  :"+ locator);
 	}
 	public static void quitBrowser() {
-		
+		if(driver!=null) {
 		driver.quit();
 		log.debug("Browser successfully quit");
-		
+		}
 	}
 	
 	

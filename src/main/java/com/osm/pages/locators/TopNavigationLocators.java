@@ -29,6 +29,11 @@ public class TopNavigationLocators {
 	
 	@FindBy(xpath="//a[@id='menu_pim_addEmployee']")
 	public WebElement pimaddEmployee;
+	@FindBy(xpath="//a[@id='menu_admin_Qualifications']")
+	public WebElement qulaiFication;
+	@FindBy(xpath="//a[@id='menu_admin_viewSkills']")
+	public WebElement viewSkill;
+	
 	
 	
 	 

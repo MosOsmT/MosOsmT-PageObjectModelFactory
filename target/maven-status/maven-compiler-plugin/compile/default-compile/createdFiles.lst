@@ -1,8 +1,10 @@
 com\osm\pages\locators\AddEmployeeLocators.class
 com\osm\pages\locators\AddUserPageLocator.class
+com\osm\utilities\ExcelReader.class
 com\osm\errorcollectors\TestListenerAdapter.class
 com\osm\errorcollectors\ErrorCollector.class
 com\osm\base\CommonMethods.class
+com\osm\pages\locators\QualiFicationPageLocators.class
 com\osm\utilities\ExtentManager.class
 com\osm\base\Page.class
 com\osm\pages\actions\HomePage.class
@@ -10,8 +12,10 @@ com\osm\listeners\CustomListeners.class
 com\osm\pages\actions\EmployeeListPage.class
 com\osm\pages\actions\JobInfoPage.class
 com\osm\pages\locators\HomepageLocators.class
+com\osm\utilities\DataUtil.class
 com\osm\pages\locators\TopNavigationLocators.class
 com\osm\pages\actions\AddUserPage.class
+com\osm\pages\actions\AddSkillPage.class
 com\osm\pages\locators\AddJobInfoLocators.class
 com\osm\base\Constants.class
 com\osm\pages\locators\LoginPageLocators.class

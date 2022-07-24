@@ -79,5 +79,13 @@ public class TopNavigation extends Page {
 		mouseOver(topNavigation.pimaddEmployee);
 		topNavigation.pimaddEmployee.click();
 	}
+	
+	public void goToQulifications() {
+		
+		//mouseOver(topNavigation.qulaiFication);
+		topNavigation.qulaiFication.click();
+		//mouseOver(topNavigation.viewSkill);
+		topNavigation.viewSkill.click();
+	}
 
 }

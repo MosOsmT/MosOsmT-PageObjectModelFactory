@@ -19,12 +19,12 @@ public class EmployeeListPage extends Page {
 	  }
 	  
 	  
-	  public void addEmployeeForm() {
+	  public void addEmployeeForm(String firstName, String lastName) {
 		  
 		  topNav.goToPIMModule();
 		  topNav.goToAddEmployee();
-		  ademp.firstName.sendKeys("OSMTest");
-		  ademp.lastName.sendKeys("Mtest");
+		  ademp.firstName.sendKeys(firstName);
+		  ademp.lastName.sendKeys(lastName);
 		  ademp.saveButton.click();
 		  
 		  
